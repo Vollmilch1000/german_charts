@@ -1,3 +1,6 @@
+# Deutsche Top 100 Singlejahrescharts
+Deutsche Top 100 Singlejahrescharts 2014-2018 nach Geschlecht des Interpreten, Sprache und Genre 
+
 Datensatz: Deutsche Top 100 Singlecharts
 Enthaltene Variablen: Jahr, Rang, Titel, Interpret, Geschlecht Interpret, Sprache, Genre
 
