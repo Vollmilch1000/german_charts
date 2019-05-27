@@ -1,15 +1,15 @@
 # Deutsche Top 100 Singlejahrescharts
 Deutsche Top 100 Singlejahrescharts 2014-2018 nach Geschlecht des Interpreten, Sprache und Genre 
 
-Datensatz: Deutsche Top 100 Singlecharts
+Datensatz: Deutsche Top 100 Singlecharts //
 Enthaltene Variablen: Jahr, Rang, Titel, Interpret, Geschlecht Interpret, Sprache, Genre
 
-Datensatz_Charts_Text enthält alle Variablenwerte als characters.
+Datensatz_Charts_Text enthält alle Variablenwerte als characters.//
 Datensatz_Charts enthält alle Variablenwerte als numerics. 
 
 Für Datensatz_Charts gelten folgende Zuordnungen: 
-Codierung Geschlecht: 0 männlich 1 weiblich 2 gemischt
-Codierung Sprache: 0 nicht-deutsch 1 deutsch
+Codierung Geschlecht: 0 männlich 1 weiblich 2 gemischt //
+Codierung Sprache: 0 nicht-deutsch 1 deutsch //
 Genre: 0 Pop 1 Electronic/Dance 2 HipHopRap
 
 Hinweis zur Codierung: 
