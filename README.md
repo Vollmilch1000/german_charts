@@ -17,7 +17,7 @@ Codierung Sprache: 0 nicht-deutsch 1 deutsch
 
 Genre: 0 Pop 1 Electronic/Dance 2 HipHopRap
 
-Hinweis zur Codierung:
+Zur Codierung:
 
 Die Variablen Jahr, Rang, Titel und Interpret durch https://www.offiziellecharts.de/charts/single-jahr befüllt.
 
