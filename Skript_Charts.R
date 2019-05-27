@@ -1,8 +1,5 @@
 ####################################################################
 # Projekt: Analyse Top 100 Singlecharts                            #
-# Im Auftrag: RedaktionsNetzwerk Deutschland                       #
-# Autor: Julius Heinrichs                                          #
-# Mail: julius.heinrichs@web.de                                    #
 # Stand: 28.05.2019                                                #
 ####################################################################
 
